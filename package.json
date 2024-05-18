@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-base-isamax",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Find the index of the first element having the maximum absolute value.",
   "license": "Apache-2.0",
   "author": {
@@ -46,7 +46,7 @@
     "@stdlib/napi-argv": "^0.2.1",
     "@stdlib/napi-argv-int64": "^0.2.1",
     "@stdlib/napi-argv-strided-float32array": "^0.2.1",
-    "@stdlib/napi-create-int32": "github:stdlib-js/napi-create-int32#main",
+    "@stdlib/napi-create-int32": "^0.0.1",
     "@stdlib/napi-export": "^0.2.1",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.1",
     "@stdlib/utils-library-manifest": "^0.2.1",
