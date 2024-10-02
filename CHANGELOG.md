@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-10-01)
+## Unreleased (2024-10-02)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`41135da`](https://github.com/stdlib-js/stdlib/commit/41135daeb35150c6f4774ef73bb9e3648d0a7c36) - **test:** fix missing argument _(by Athan Reines)_
 -   [`35cbdfb`](https://github.com/stdlib-js/stdlib/commit/35cbdfbbd0d8144b188bb95d56ec9f4719cc2bc5) - **feat:** add support for negative strides in `idamax` and `isamax` [(#2793)](https://github.com/stdlib-js/stdlib/pull/2793) _(by Pranav Goswami)_
 
 </details>
@@ -46,8 +47,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Pranav Goswami
 
 </section>
