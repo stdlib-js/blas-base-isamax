@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`206c660`](https://github.com/stdlib-js/stdlib/commit/206c6608c3822e807d4a6cb4982838510bb36c21) - update JavaScript implementation and add C `ndarray` implementation for `blas/base/isamax` [(#2931)](https://github.com/stdlib-js/stdlib/pull/2931)
 -   [`35cbdfb`](https://github.com/stdlib-js/stdlib/commit/35cbdfbbd0d8144b188bb95d56ec9f4719cc2bc5) - add support for negative strides in `idamax` and `isamax` [(#2793)](https://github.com/stdlib-js/stdlib/pull/2793)
 
 </section>
@@ -34,6 +35,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`206c660`](https://github.com/stdlib-js/stdlib/commit/206c6608c3822e807d4a6cb4982838510bb36c21) - **feat:** update JavaScript implementation and add C `ndarray` implementation for `blas/base/isamax` [(#2931)](https://github.com/stdlib-js/stdlib/pull/2931) _(by Aman Bhansali, Athan Reines)_
 -   [`41135da`](https://github.com/stdlib-js/stdlib/commit/41135daeb35150c6f4774ef73bb9e3648d0a7c36) - **test:** fix missing argument _(by Athan Reines)_
 -   [`35cbdfb`](https://github.com/stdlib-js/stdlib/commit/35cbdfbbd0d8144b188bb95d56ec9f4719cc2bc5) - **feat:** add support for negative strides in `idamax` and `isamax` [(#2793)](https://github.com/stdlib-js/stdlib/pull/2793) _(by Pranav Goswami)_
 
@@ -47,8 +49,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Aman Bhansali
 -   Athan Reines
 -   Pranav Goswami
 
