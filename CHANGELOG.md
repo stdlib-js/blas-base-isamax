@@ -35,6 +35,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`6c9018c`](https://github.com/stdlib-js/stdlib/commit/6c9018cb081c3e9e0510bd5609995bf38449e6d1) - **docs:** fix note _(by Athan Reines)_
 -   [`0441176`](https://github.com/stdlib-js/stdlib/commit/0441176842aa621bace6bb098ef669638b5cd787) - **docs:** fix descriptions _(by Athan Reines)_
 -   [`206c660`](https://github.com/stdlib-js/stdlib/commit/206c6608c3822e807d4a6cb4982838510bb36c21) - **feat:** update JavaScript implementation and add C `ndarray` implementation for `blas/base/isamax` [(#2931)](https://github.com/stdlib-js/stdlib/pull/2931) _(by Aman Bhansali, Athan Reines)_
@@ -51,10 +52,11 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Aman Bhansali
 -   Athan Reines
+-   Philipp Burckhardt
 -   Pranav Goswami
 
 </section>
