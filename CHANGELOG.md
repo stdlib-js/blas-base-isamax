@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-11-03)
+## Unreleased (2025-12-05)
 
 <section class="features">
 
@@ -45,6 +45,7 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`60b2261`](https://github.com/stdlib-js/stdlib/commit/60b2261376b1b45cba645edff4dc566f50de0f58) - **bench:** refactor to use dynamic memory allocation in `blas/base/isamax` [(#8816)](https://github.com/stdlib-js/stdlib/pull/8816) _(by Krishna Awasthi)_
 -   [`2ec7e51`](https://github.com/stdlib-js/stdlib/commit/2ec7e5165cab5afc566fe1a337b67c8bd9335cf2) - **style:** remove whitespace [(#8370)](https://github.com/stdlib-js/stdlib/pull/8370) _(by anujmishra03, Athan Reines)_
 -   [`53ffc05`](https://github.com/stdlib-js/stdlib/commit/53ffc054bf593936293c275279ceab2e17c45973) - **chore:** fix JavaScript lint errors [(#8211)](https://github.com/stdlib-js/stdlib/pull/8211) _(by Payal Goswami)_
 -   [`d559fd7`](https://github.com/stdlib-js/stdlib/commit/d559fd70de9ec9b1d72d22543876f380e4062c69) - **refactor:** update include header guards for single precision real packages [(#7710)](https://github.com/stdlib-js/stdlib/pull/7710) _(by Shabareesh Shetty)_
@@ -69,10 +70,11 @@ A total of 3 issues were closed in this release:
 
 ### Contributors
 
-A total of 7 people contributed to this release. Thank you to the following contributors:
+A total of 8 people contributed to this release. Thank you to the following contributors:
 
 -   Aman Bhansali
 -   Athan Reines
+-   Krishna Awasthi
 -   Payal Goswami
 -   Philipp Burckhardt
 -   Pranav Goswami
