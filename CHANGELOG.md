@@ -45,6 +45,7 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`d3f52bb`](https://github.com/stdlib-js/stdlib/commit/d3f52bbb4e2257902fa8c19ec43e9c561833ff42) - **bench:** add missing float literal suffix in \`blas/base/isamax\` _(by Philipp Burckhardt)_
 -   [`60b2261`](https://github.com/stdlib-js/stdlib/commit/60b2261376b1b45cba645edff4dc566f50de0f58) - **bench:** refactor to use dynamic memory allocation in `blas/base/isamax` [(#8816)](https://github.com/stdlib-js/stdlib/pull/8816) _(by Krishna Awasthi)_
 -   [`2ec7e51`](https://github.com/stdlib-js/stdlib/commit/2ec7e5165cab5afc566fe1a337b67c8bd9335cf2) - **style:** remove whitespace [(#8370)](https://github.com/stdlib-js/stdlib/pull/8370) _(by anujmishra03, Athan Reines)_
 -   [`53ffc05`](https://github.com/stdlib-js/stdlib/commit/53ffc054bf593936293c275279ceab2e17c45973) - **chore:** fix JavaScript lint errors [(#8211)](https://github.com/stdlib-js/stdlib/pull/8211) _(by Payal Goswami)_
