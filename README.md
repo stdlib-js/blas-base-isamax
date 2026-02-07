@@ -44,7 +44,7 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
-isamax = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-isamax@umd/browser.js' )
+isamax = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-isamax@v0.1.1-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -56,7 +56,7 @@ var isamax = require( 'path/to/vendor/umd/blas-base-isamax/index.js' )
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-isamax@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-isamax@v0.1.1-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -169,7 +169,7 @@ var idx = isamax.ndarray( 5, x, 1, 1 );
 <html lang="en">
 <body>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-isamax@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-isamax@v0.1.1-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
