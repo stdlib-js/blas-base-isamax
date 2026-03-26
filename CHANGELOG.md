@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-16)
+## Unreleased (2026-03-26)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`f9d1409`](https://github.com/stdlib-js/stdlib/commit/f9d140985e169d34f4e66bd770dc675ea28588a3) - **docs:** add missing JSDoc comment _(by Athan Reines)_
 -   [`a78342c`](https://github.com/stdlib-js/stdlib/commit/a78342cc43324f4c168429d8c76c85691f502faf) - **chore:** fix JavaScript lint errors [(#10482)](https://github.com/stdlib-js/stdlib/pull/10482) _(by Aryan kumar)_
 -   [`c1755b9`](https://github.com/stdlib-js/stdlib/commit/c1755b981f95c57388279aa966dfc43595434846) - **bench:** refactor to use string interpolation in `blas/base/isamax` [(#10428)](https://github.com/stdlib-js/stdlib/pull/10428) _(by Shubham)_
 
@@ -37,9 +38,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Aryan kumar
+-   Athan Reines
 -   Shubham
 
 </section>
